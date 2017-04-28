@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493380378 source:d:\program file\cprograme\linklist_basic\func.c
+	<stdio.h>
+	<stdlib.h>
+	"Func.h"
+
+1493376340 d:\program file\cprograme\linklist_basic\func.h
+
+1493380322 source:d:\program file\cprograme\linklist_basic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Func.h"
+
